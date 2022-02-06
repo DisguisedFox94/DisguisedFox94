@@ -3,7 +3,7 @@
   ### Hello there, I'm *NoahExploits* and I'm interested in developing this for others ###
   
   Main Project:
-  Code Hub - V1 <a href="https://discord.gg/2NWj7KUsjH">  <img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
+  **Code Hub - V1** <a href="https://discord.gg/2NWj7KUsjH">  <img src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" alt="Discord" width="27px"></a>
   
   
   **Languages**
